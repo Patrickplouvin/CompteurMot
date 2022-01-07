@@ -7,4 +7,3 @@ def rec(message,liste):
     for i in liste:
         print("le mot "+i+" est "+str(message.count(i))+" fois")
 
-
