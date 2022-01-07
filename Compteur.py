@@ -5,7 +5,7 @@ import CompteurPhrase
 
 
 message=input("Rentrez votre flux: "  )
-liste=input("Rentrez la liste des mots dont vous souhaitez voir l'occurence :" )
+liste=input("Rentrez la liste des mots séparé par un espace dont vous souhaitez voir l'occurence :" )
 
 
 
